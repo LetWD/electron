@@ -1,2 +1,2 @@
-# electron-win
-LWD electron (4 windows)
+# electron
+LWD electron app
